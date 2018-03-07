@@ -18,4 +18,14 @@ class PeopleController extends Controller
             'base_dir' => realpath($this->getParameter('kernel.project_dir')).DIRECTORY_SEPARATOR,
         ]);
     }
+
+    /**
+     * @Route("/people/list")
+     */
+    public function listAction()
+    {
+        return new Response(
+            '<html><body>People list</body></html>'
+        );
+    }
 }
