@@ -1,0 +1,16 @@
+ef7a85,127.0.0.1,GET,http://127.0.0.1:8000/,1520322580,,200
+915cba,127.0.0.1,GET,http://127.0.0.1:8000/lucky/fetching/123,1520325621,,200
+7b9e22,127.0.0.1,GET,http://127.0.0.1:8000/lucky/fetching/123,1520325648,,200
+9fc38f,127.0.0.1,GET,http://cmn.symfony.tld/lucky/number,1520389522,,200
+399c76,127.0.0.1,GET,http://cmn.symfony.tld/lucky/list,1520389540,5feed5,200
+5feed5,127.0.0.1,GET,http://cmn.symfony.tld/lucky/list,1520389540,,404
+b4b154,127.0.0.1,GET,http://cmn.symfony.tld/lucky/list/1,1520389547,,200
+bff567,127.0.0.1,GET,http://cmn.symfony.tld/lucky/list/1,1520390323,,200
+1f1faf,127.0.0.1,GET,http://cmn.symfony.tld/,1520390329,,200
+6fbaf3,127.0.0.1,GET,http://cmn.symfony.tld/lucky/ramdom/12,1520390453,e670cd,200
+e670cd,127.0.0.1,GET,http://cmn.symfony.tld/lucky/ramdom/12,1520390453,,404
+3a0f39,127.0.0.1,GET,http://cmn.symfony.tld/lucky/random/12,1520390461,e57745,200
+e57745,127.0.0.1,GET,http://cmn.symfony.tld/lucky/random/12,1520390461,,404
+9f18ec,127.0.0.1,GET,http://cmn.symfony.tld/lucky/number,1520390485,,200
+aec860,127.0.0.1,GET,http://cmn.symfony.tld/lucky/number,1520392149,,200
+ed55f6,127.0.0.1,GET,http://cmn.symfony.tld/lucky/number,1520392152,,200
